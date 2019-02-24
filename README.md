@@ -6,7 +6,7 @@ The total number of lines in each frame stay the same, and it would only change 
 
 
 What do the first, second, and third appearances of the number 10 do in the code?
-First : sets the starting point of the first line 
-Second : sets the boundary where the starting point of the last line can be 
-Third : sets the intervals between the starting points of all lines to be `10
+First : sets the starting point of the first line  (initializer)
+Second : sets the boundary where the starting point of the last line can be  (condition)
+Third : sets the intervals between the starting points of all lines to be 10 (increment)
 
